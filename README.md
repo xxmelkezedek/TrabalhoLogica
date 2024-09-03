@@ -1,2 +1,2 @@
 # TrabalhoLogica
-Trabalho Lógica &amp; Algoritmos
+Trabalho de Lógica &amp; Algoritmos
