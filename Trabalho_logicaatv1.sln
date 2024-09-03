@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Trabalho_logicaatv1", "Trabalho_logicaatv1.pyproj", "{4A6DE96F-9630-4147-982E-E107DD3BD5EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A6DE96F-9630-4147-982E-E107DD3BD5EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A6DE96F-9630-4147-982E-E107DD3BD5EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69E2C49C-D159-4C8C-9536-02FF2DA4899A}
+	EndGlobalSection
+EndGlobal

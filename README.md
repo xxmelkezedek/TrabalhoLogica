@@ -1,2 +1,1 @@
-# TrabalhoLogica
-Trabalho de Lógica &amp; Algoritmos
+# Trabalho_logicaatv1
